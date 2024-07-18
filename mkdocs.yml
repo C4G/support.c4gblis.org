@@ -4,3 +4,8 @@ theme:
   name: material
   palette:
     primary: blue
+plugins:
+  - search:
+      enabled: false
+extra_css:
+  - stylesheets/styles.css

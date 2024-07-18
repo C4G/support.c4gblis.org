@@ -1,0 +1,10 @@
+/* Hide the search bar - it works, we just don't need it */
+.md-search {
+    display: none;
+}
+
+/* Tighten up the center content view */
+.md-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
