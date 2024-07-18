@@ -23,7 +23,8 @@ Together, along with [Professor Santosh Vempala](https://faculty.cc.gatech.edu/~
 
 ### Mitchell Rysavy
 
-Mitchell has been one of the primary developers on this project since 2022. His largest contributions have been to create the online, cloud-based version of BLIS (BLIS-on-Docker) and the ["blis" tool](https://github.com/C4G/blis-cloud-cli) for administering it.
+Mitchell has been one of the primary developers on this project since 2022. His largest contributions have been to create the online, cloud-based version of BLIS (BLIS-on-Docker) and the ["blis" tool](https://github.com/C4G/blis-cloud-cli) for administering it. He has experience with several major cloud platforms, and his
+[GitHub profile](https://github.com/mrysav) provides additional details about other work he has done.
 
 ### Sidney Akuro Atah
 
