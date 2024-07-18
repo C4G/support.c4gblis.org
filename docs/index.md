@@ -19,6 +19,8 @@ Some services we can offer are:
 
 ## Who are we?
 
+Together, along with [Professor Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/), we have extensive experience with C4G BLIS.
+
 ### Mitchell Rysavy
 
 Mitchell has been one of the primary developers on this project since 2022. His largest contributions have been to create the online, cloud-based version of BLIS (BLIS-on-Docker) and the ["blis" tool](https://github.com/C4G/blis-cloud-cli) for administering it.
