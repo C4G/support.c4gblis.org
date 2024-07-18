@@ -1,0 +1,6 @@
+site_name: C4G BLIS Support
+site_url: https://support.c4gblis.org/
+theme:
+  name: material
+  palette:
+    primary: blue
