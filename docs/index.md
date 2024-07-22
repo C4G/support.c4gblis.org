@@ -19,7 +19,7 @@ Some services we can offer are:
 
 ## Who are we?
 
-Together, along with [Professor Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/), we have extensive experience with C4G BLIS.
+Together, we have extensive experience with C4G BLIS.
 
 ### Mitchell Rysavy
 
@@ -29,6 +29,10 @@ Mitchell has been one of the primary developers on this project since 2022. His 
 ### Sidney Akuro Atah
 
 Sidney has been with the BLIS project since the beginning. He has worked with many labs in Cameroon to set up and support BLIS, and has been a part of studies about BLIS as it has evolved.
+
+### Professor Santosh Vempala
+
+[Professor Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/) is a pro bono consultant. Prof. Vempala has taught the Computing For Good course at Georgia Tech, from which much work on BLIS has been done.
 
 ## Contact
 
